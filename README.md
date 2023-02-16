@@ -37,3 +37,7 @@ We will work with the files in this order:
 <div class="back-to-top-wrapper">
   <a href="#top" class="back-to-top-link" aria-label="Scroll to Top">🔝</a>
 </div>
+
+## Reflection
+- This was a good review over the little things about hashes
+
